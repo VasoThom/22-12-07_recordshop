@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": null
+    },
+    {
+      "id": 1,
+      "user": "marcel"
+    },
+    {
+      "id": 2,
+      "user": "ella"
+    },
+    {
+      "id": 3,
+      "user": "VASO"
+    }
+  ],
+  "user": [
+    {
+      "id": null
+    },
+    {
+      "id": 1,
+      "user": "marcel"
+    }
+  ]
+}
