@@ -7,3 +7,7 @@ Macht dafür folgende Aufgaben:
 * Erstellte einen Router für User und Records. Jeder bekommt alle notwendigen REST Routen
 * Erstelle ein MVC Projekt indem du die Logik aus den Routen auslagerst
 * Nutzt die lowdb Datenbank um aus eurer JSON eine Datenbank zu erstellen.
+ 
+
+
+Router und lowdb Json
